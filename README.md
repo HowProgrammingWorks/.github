@@ -1,0 +1,2 @@
+# .github
+Metarhia community courses
