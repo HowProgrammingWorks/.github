@@ -2,8 +2,8 @@
 <code>[📚 Книга (в разработке)](https://github.com/HowProgrammingWorks/Book)</code>
 <code>[🔗 Каналы и группы](https://github.com/HowProgrammingWorks/Index/blob/master/Links.md)</code>
 <code>[🎤 Доклады и выступленич](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Talks.md)</code>
-<code>[💻 Практическика](https://github.com/HowProgrammingWorks/Index/blob/master/Practice/Index.md)</code><br>
-<code>[📞 Созвоны сообщества](https://github.com/HowProgrammingWorks/Index/blob/master/Archive/WeeklyCall.md)</code>
+<code>[💻 Практическика](https://github.com/HowProgrammingWorks/Index/blob/master/Practice/Index.md)</code>
+<code>[📞 Созвоны](https://github.com/HowProgrammingWorks/Index/blob/master/Archive/WeeklyCall.md)</code><br>
 <code>[📑 Введение и обзор знаний](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Introduction.md)</code>
 <code>[👶 Основы программирования для начинающих](https://www.youtube.com/watch?v=2DM5I2CI4gY&list=PLpmhTzMVLuROAIey9vW3pyRSpHfknLssu)</code><br>
 <code>[🎓 Основы программирования (1 год)](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Fundamentals.md)</code>
