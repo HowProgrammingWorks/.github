@@ -11,12 +11,12 @@
 <code>[⏩ Асинхронное программирование](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Asynchronous.md)</code><br>
 <code>[🛠️ Технологический стек Node.js](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/NodeJS.md)</code>
 <code>[🧩 Шаблоны проектирования](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Patterns.md)</code>
-<code>[🔄 Парадигмы программирования](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Paradigms.md)</code><br>
+<code>[🔄 Парадигмы программирования](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Paradigms.md)</code>
+<code>[🔣 ФП](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Functional.md)</code>
+<code>[🧑‍🔧 ООП](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/OOP.md)</code><br>
 <code>[🤖 Мультипарадигменное и иетапрограммирование](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Metaprogramming.md)</code>
 <code>[📊 Алгоритмы и структуры данных](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/AlgAndData.md)</code>
 <code>[🌐 Сетевые протоколы](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Network.md)</code><br>
-<code>[🔣 ФП](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Functional.md)</code>
-<code>[🧑‍🔧 ООП](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/OOP.md)</code>
 <code>[✋ GRASP для JavaScript и Node.js](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/GRASP.md)</code>
 <code>[🏛️ Архитектура](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Architecture.md)</code>
 <code>[💽 Базв данных](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Databases.md)</code>
