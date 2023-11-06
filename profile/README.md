@@ -14,6 +14,7 @@
 <code>[🔣&nbsp;ФП](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Functional.md)</code>
 <code>[🤖&nbsp;Мультипарадигменное&nbsp;и&nbsp;метапрограммирование](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Metaprogramming.md)</code>
 <code>[🛠️&nbsp;Node.js](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/NodeJS.md)</code>
+<code>[🚀&nbsp;Новый&nbsp;курс&nbsp;Node.js&nbsp;2023](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/NodeJS-2022-2023.md)</code>
 <code>[🧩&nbsp;Паттерны](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Patterns.md)</code>
 <code>[🌐&nbsp;Протоколы](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Network.md)</code>
 <code>[✋&nbsp;GRASP](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/GRASP.md)</code>
