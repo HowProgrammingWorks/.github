@@ -10,11 +10,12 @@
 <code>[💡&nbsp;Программирование&nbsp;(2&nbsp;год)](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Advanced.md)</code>
 <code>[🔄&nbsp;Парадигмы](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Paradigms.md)</code>
 <code>[🧑‍🔧&nbsp;ООП](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/OOP.md)</code>
-<code>[⏩&nbsp;Асинхронное&nbsp;программирование](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Asynchronous.md)</code>
+<code>[✨&nbsp;Асинхронное&nbsp;программирование](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Asynchronous.md)</code>
+<code>[⚡&nbsp;Async&nbsp;2024](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Async-2024.md)</code>
 <code>[🔣&nbsp;ФП](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Functional.md)</code>
 <code>[🤖&nbsp;Мультипарадигменное&nbsp;и&nbsp;метапрограммирование](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Metaprogramming.md)</code>
 <code>[🛠️&nbsp;Node.js](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/NodeJS.md)</code>
-<code>[🚀&nbsp;Новый&nbsp;курс&nbsp;Node.js&nbsp;2023](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/NodeJS-2022-2023.md)</code>
+<code>[🚀&nbsp;Новый&nbsp;курс&nbsp;Node.js&nbsp;2024](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/NodeJS-2024.md)</code>
 <code>[🧩&nbsp;Паттерны](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Patterns.md)</code>
 <code>[🌐&nbsp;Протоколы](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Network.md)</code>
 <code>[✋&nbsp;GRASP](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/GRASP.md)</code>
