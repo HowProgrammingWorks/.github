@@ -1,3 +1,7 @@
+<code>[🔁&nbsp;Async&nbsp;2024](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Async-2024.md)</code>
+<code>[🚀&nbsp;Node.js&nbsp;2024](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/NodeJS-2024.md)</code>
+<code>[👶&nbsp;Для&nbsp;начинающих](https://www.youtube.com/watch?v=2DM5I2CI4gY&list=PLpmhTzMVLuROAIey9vW3pyRSpHfknLssu)</code>
+<br><br>
 <code>[📖&nbsp;Словарь](https://github.com/HowProgrammingWorks/Dictionary)</code>
 <code>[📚&nbsp;Книга&nbsp;(в&nbsp;разработке)](https://github.com/HowProgrammingWorks/Book)</code>
 <code>[🔗&nbsp;Каналы&nbsp;и&nbsp;группы](https://github.com/HowProgrammingWorks/Index/blob/master/Links.md)</code>
@@ -5,17 +9,14 @@
 <code>[💻&nbsp;Практическика](https://github.com/HowProgrammingWorks/Index/blob/master/Practice/Index.md)</code>
 <code>[📞&nbsp;Созвоны](https://github.com/HowProgrammingWorks/Index/blob/master/Archive/WeeklyCall.md)</code>
 <code>[📑&nbsp;Введение&nbsp;и&nbsp;обзор](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Introduction.md)</code>
-<code>[👶&nbsp;Для&nbsp;начинающих](https://www.youtube.com/watch?v=2DM5I2CI4gY&list=PLpmhTzMVLuROAIey9vW3pyRSpHfknLssu)</code>
 <code>[🎓&nbsp;Программирование&nbsp;(1&nbsp;год)](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Fundamentals.md)</code>
 <code>[💡&nbsp;Программирование&nbsp;(2&nbsp;год)](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Advanced.md)</code>
-<code>[🔄&nbsp;Парадигмы](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Paradigms.md)</code>
-<code>[🧑‍🔧&nbsp;ООП](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/OOP.md)</code>
-<code>[✨&nbsp;Асинхронное&nbsp;программирование](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Asynchronous.md)</code>
-<code>[⚡&nbsp;Async&nbsp;2024](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Async-2024.md)</code>
-<code>[🔣&nbsp;ФП](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Functional.md)</code>
+<code>[🧭&nbsp;Парадигмы](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Paradigms.md)</code>
+<code>[🤹‍♀️&nbsp;ООП](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/OOP.md)</code>
+<code>[🔁&nbsp;Асинхронное&nbsp;программирование](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Asynchronous.md)</code>
+<code>[🔮&nbsp;ФП](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Functional.md)</code>
 <code>[🤖&nbsp;Мультипарадигменное&nbsp;и&nbsp;метапрограммирование](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Metaprogramming.md)</code>
-<code>[🛠️&nbsp;Node.js](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/NodeJS.md)</code>
-<code>[🚀&nbsp;Новый&nbsp;курс&nbsp;Node.js&nbsp;2024](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/NodeJS-2024.md)</code>
+<code>[🐢&nbsp;Node.js](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/NodeJS.md)</code>
 <code>[🧩&nbsp;Паттерны](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Patterns.md)</code>
 <code>[🌐&nbsp;Протоколы](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Network.md)</code>
 <code>[✋&nbsp;GRASP](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/GRASP.md)</code>
