@@ -2,6 +2,7 @@
 <code>[🚀&nbsp;Node.js&nbsp;2024](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/NodeJS-2024.md)</code>
 <code>[❓&nbsp;Node.js&nbsp;Interview&nbsp;questions](https://github.com/tshemsedinov/NodeJS-Interview-Questions)</code>
 <code>[👶&nbsp;Для&nbsp;начинающих](https://www.youtube.com/watch?v=2DM5I2CI4gY&list=PLpmhTzMVLuROAIey9vW3pyRSpHfknLssu)</code>
+<code>[🤖&nbsp;Оценка&nbsp;своих&nbsp;знаний](https://github.com/HowProgrammingWorks/SelfAssessment)</code>
 <br><br>
 <code>[📖&nbsp;Словарь](https://github.com/HowProgrammingWorks/Dictionary)</code>
 <code>[📚&nbsp;Книга&nbsp;(в&nbsp;разработке)](https://github.com/HowProgrammingWorks/Book)</code>
