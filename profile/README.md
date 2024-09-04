@@ -7,8 +7,8 @@
 <code>[📖&nbsp;Словарь](https://github.com/HowProgrammingWorks/Dictionary)</code>
 <code>[📚&nbsp;Книга&nbsp;(в&nbsp;разработке)](https://github.com/HowProgrammingWorks/Book)</code>
 <code>[🔗&nbsp;Каналы&nbsp;и&nbsp;группы](https://github.com/HowProgrammingWorks/Index/blob/master/Links.md)</code>
-<code>[🎤&nbsp;Доклады&nbsp;и&nbsp;выступленич](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Talks.md)</code>
-<code>[💻&nbsp;Практическика](https://github.com/HowProgrammingWorks/Index/blob/master/Practice/Index.md)</code>
+<code>[🎤&nbsp;Доклады&nbsp;и&nbsp;выступления](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Talks.md)</code>
+<code>[💻&nbsp;Практика](https://github.com/HowProgrammingWorks/Index/blob/master/Practice/Index.md)</code>
 <code>[📞&nbsp;Созвоны](https://github.com/HowProgrammingWorks/Index/blob/master/Archive/WeeklyCall.md)</code>
 <code>[📑&nbsp;Введение&nbsp;и&nbsp;обзор](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Introduction.md)</code>
 <code>[🎓&nbsp;Программирование&nbsp;(1&nbsp;год)](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Fundamentals.md)</code>
