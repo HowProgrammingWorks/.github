@@ -2,6 +2,8 @@
 <code>[🧩&nbsp;Patterns&nbsp;2024](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Patterns-2024.md)</code>
 <code>[🚀&nbsp;Node.js&nbsp;2024](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/NodeJS-2024.md)</code>
 <code>[👶&nbsp;Для&nbsp;начинающих](https://www.youtube.com/watch?v=2DM5I2CI4gY&list=PLpmhTzMVLuROAIey9vW3pyRSpHfknLssu)</code>
+<code>[🔁&nbsp;Async&nbsp;2025](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Async-2025.md)</code>
+<code>[🚀&nbsp;Node.js&nbsp;2025](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/NodeJS-2025.md)</code>
 <br><br>
 <code>[🤖&nbsp;Оценка&nbsp;своих&nbsp;знаний](https://github.com/HowProgrammingWorks/SelfAssessment)</code>
 <code>[❓&nbsp;Node.js&nbsp;Interview&nbsp;questions](https://github.com/tshemsedinov/NodeJS-Interview-Questions)</code>
