@@ -1,4 +1,4 @@
-<code>[🔁&nbsp;Async&nbsp;2025](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Async-2025.md)</code>
+<code>[🔁&nbsp;Async&nbsp;2026](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Async-2026.md)</code>
 <code>[🧩&nbsp;Patterns&nbsp;2025](https://nodeua.com/Patterns-2025.html)</code>
 <code>[🚀&nbsp;Node.js&nbsp;2024](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/NodeJS-2024.md)</code>
 <code>[👶&nbsp;Для&nbsp;начинающих](https://www.youtube.com/watch?v=2DM5I2CI4gY&list=PLpmhTzMVLuROAIey9vW3pyRSpHfknLssu)</code>
